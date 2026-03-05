@@ -1,5 +1,9 @@
 # ICICLE AI Component MCP
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![MCP](https://img.shields.io/badge/Protocol-MCP-green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ICICLE-ai/catalog_mcp?tab=MIT-1-ov-file)
+
 ICICLE AI Component MCP lets developers use AI-powered IDEs to explore ICICLE components and then
 implement, experiment, and iterate directly from chat inside the IDE. It exposes
 tools for listing, searching, and retrieving component metadata over MCP.
@@ -12,7 +16,8 @@ Tags: Software
 
 ## Issue reporting
 
-[TODO: <GITHUB_ISSUES / EMAIL / OTHER>]
+Report issues at https://github.com/ICICLE-ai/catalog_mcp/issues and include
+your IDE, Python version, and the full error message or stack trace.
 
 ---
 
