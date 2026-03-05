@@ -1,6 +1,6 @@
 # ICICLE AI Component MCP
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![MCP](https://img.shields.io/badge/Protocol-MCP-green)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ICICLE-ai/catalog_mcp?tab=MIT-1-ov-file)
 
